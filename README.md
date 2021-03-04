@@ -7,8 +7,8 @@ Ruby CLI that takes in space separated string of incomes and returns taxes deduc
 Clone this repo<br>
 SHH: git@github.com:PBillingsby/tax-bracketed-engine.git<br>
 HTTPS: https://github.com/PBillingsby/tax-bracketed-engine.git<br>
-
-run `rake taxes`
+<br>
+Open in editor and run `rake taxes`
 
 #### Usage
 
